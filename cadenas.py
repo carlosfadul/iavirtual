@@ -41,4 +41,5 @@ print("Mi nombre es "+nombre+" y mi edad es",edad)
 
 cadena = " "
 print(bool(cadena))
+cualquier vaina
 """
