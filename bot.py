@@ -9,7 +9,7 @@ from telegram.ext import (
     ContextTypes,
     filters
 )
-
+#Esta version funciona
 # Configura TensorFlow ANTES de crear el modelo
 tf.config.threading.set_inter_op_parallelism_threads(1)
 tf.config.threading.set_intra_op_parallelism_threads(1)
